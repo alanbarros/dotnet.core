@@ -1,0 +1,42 @@
+/home/alan/Documentos/dotnet/UsusarioAPI/bin/Debug/netcoreapp2.1/UsusarioAPI.deps.json
+/home/alan/Documentos/dotnet/UsusarioAPI/bin/Debug/netcoreapp2.1/UsusarioAPI.runtimeconfig.json
+/home/alan/Documentos/dotnet/UsusarioAPI/bin/Debug/netcoreapp2.1/UsusarioAPI.runtimeconfig.dev.json
+/home/alan/Documentos/dotnet/UsusarioAPI/bin/Debug/netcoreapp2.1/UsusarioAPI.dll
+/home/alan/Documentos/dotnet/UsusarioAPI/bin/Debug/netcoreapp2.1/UsusarioAPI.pdb
+/home/alan/Documentos/dotnet/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.csprojAssemblyReference.cache
+/home/alan/Documentos/dotnet/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.csproj.CoreCompileInputs.cache
+/home/alan/Documentos/dotnet/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.RazorAssemblyInfo.cache
+/home/alan/Documentos/dotnet/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.RazorAssemblyInfo.cs
+/home/alan/Documentos/dotnet/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.AssemblyInfoInputs.cache
+/home/alan/Documentos/dotnet/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.AssemblyInfo.cs
+/home/alan/Documentos/dotnet/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.RazorTargetAssemblyInfo.cache
+/home/alan/Documentos/dotnet/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.dll
+/home/alan/Documentos/dotnet/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.pdb
+/home/alan/Documentos/dotnet/Api+WebClient/UsusarioAPI/bin/Debug/netcoreapp2.1/UsusarioAPI.deps.json
+/home/alan/Documentos/dotnet/Api+WebClient/UsusarioAPI/bin/Debug/netcoreapp2.1/UsusarioAPI.runtimeconfig.json
+/home/alan/Documentos/dotnet/Api+WebClient/UsusarioAPI/bin/Debug/netcoreapp2.1/UsusarioAPI.runtimeconfig.dev.json
+/home/alan/Documentos/dotnet/Api+WebClient/UsusarioAPI/bin/Debug/netcoreapp2.1/UsusarioAPI.dll
+/home/alan/Documentos/dotnet/Api+WebClient/UsusarioAPI/bin/Debug/netcoreapp2.1/UsusarioAPI.pdb
+/home/alan/Documentos/dotnet/Api+WebClient/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.csprojAssemblyReference.cache
+/home/alan/Documentos/dotnet/Api+WebClient/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.csproj.CoreCompileInputs.cache
+/home/alan/Documentos/dotnet/Api+WebClient/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.RazorAssemblyInfo.cache
+/home/alan/Documentos/dotnet/Api+WebClient/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.RazorAssemblyInfo.cs
+/home/alan/Documentos/dotnet/Api+WebClient/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.AssemblyInfoInputs.cache
+/home/alan/Documentos/dotnet/Api+WebClient/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.AssemblyInfo.cs
+/home/alan/Documentos/dotnet/Api+WebClient/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.RazorTargetAssemblyInfo.cache
+/home/alan/Documentos/dotnet/Api+WebClient/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.dll
+/home/alan/Documentos/dotnet/Api+WebClient/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.pdb
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/UsusarioAPI/bin/Debug/netcoreapp2.1/UsusarioAPI.deps.json
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/UsusarioAPI/bin/Debug/netcoreapp2.1/UsusarioAPI.runtimeconfig.json
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/UsusarioAPI/bin/Debug/netcoreapp2.1/UsusarioAPI.runtimeconfig.dev.json
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/UsusarioAPI/bin/Debug/netcoreapp2.1/UsusarioAPI.dll
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/UsusarioAPI/bin/Debug/netcoreapp2.1/UsusarioAPI.pdb
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.csprojAssemblyReference.cache
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.csproj.CoreCompileInputs.cache
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.RazorAssemblyInfo.cache
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.RazorAssemblyInfo.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.AssemblyInfoInputs.cache
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.AssemblyInfo.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.RazorTargetAssemblyInfo.cache
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.dll
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/UsusarioAPI/obj/Debug/netcoreapp2.1/UsusarioAPI.pdb

@@ -1,0 +1,115 @@
+/home/alan/Documentos/dotnet/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.deps.json
+/home/alan/Documentos/dotnet/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.runtimeconfig.json
+/home/alan/Documentos/dotnet/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.runtimeconfig.dev.json
+/home/alan/Documentos/dotnet/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.dll
+/home/alan/Documentos/dotnet/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.pdb
+/home/alan/Documentos/dotnet/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.Views.dll
+/home/alan/Documentos/dotnet/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.Views.pdb
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.csprojAssemblyReference.cache
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.csproj.CoreCompileInputs.cache
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.RazorAssemblyInfo.cache
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.RazorAssemblyInfo.cs
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.AssemblyInfoInputs.cache
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.AssemblyInfo.cs
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.TagHelpers.input.cache
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.TagHelpers.output.cache
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.RazorCoreGenerate.cache
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Usuario/Index.g.cshtml.cs
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.RazorTargetAssemblyInfo.cache
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.RazorTargetAssemblyInfo.cs
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.Views.pdb
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.dll
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.pdb
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.csproj.CopyComplete
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Usuario/Create.g.cshtml.cs
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Usuario/Delete.g.cshtml.cs
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Usuario/Edit.g.cshtml.cs
+/home/alan/Documentos/dotnet/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Usuario/Details.g.cshtml.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.csprojAssemblyReference.cache
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.csproj.CoreCompileInputs.cache
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.RazorAssemblyInfo.cache
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.RazorAssemblyInfo.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.AssemblyInfoInputs.cache
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.AssemblyInfo.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.TagHelpers.input.cache
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.TagHelpers.output.cache
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.RazorCoreGenerate.cache
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Usuario/Create.g.cshtml.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Usuario/Delete.g.cshtml.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Usuario/Details.g.cshtml.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Usuario/Edit.g.cshtml.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Usuario/Index.g.cshtml.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.RazorTargetAssemblyInfo.cache
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.RazorTargetAssemblyInfo.cs
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.dll
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.pdb
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.deps.json
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.runtimeconfig.json
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.runtimeconfig.dev.json
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.dll
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.pdb
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.Views.dll
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.Views.pdb
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/bin/Debug/netcoreapp2.1/UsusarioAPI.dll
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/bin/Debug/netcoreapp2.1/UsusarioAPI.pdb
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.Views.pdb
+/home/alan/Documentos/dotnet/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.csproj.CopyComplete
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.deps.json
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.runtimeconfig.json
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.runtimeconfig.dev.json
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.dll
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.pdb
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.Views.dll
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/bin/Debug/netcoreapp2.1/HttpWebClient.Views.pdb
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/bin/Debug/netcoreapp2.1/UsusarioAPI.dll
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/bin/Debug/netcoreapp2.1/UsusarioAPI.pdb
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.csprojAssemblyReference.cache
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.csproj.CoreCompileInputs.cache
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.RazorAssemblyInfo.cache
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.RazorAssemblyInfo.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.AssemblyInfoInputs.cache
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.AssemblyInfo.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.TagHelpers.input.cache
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.TagHelpers.output.cache
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.RazorCoreGenerate.cache
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Usuario/Create.g.cshtml.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Usuario/Delete.g.cshtml.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Usuario/Details.g.cshtml.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Usuario/Edit.g.cshtml.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/Usuario/Index.g.cshtml.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.RazorTargetAssemblyInfo.cache
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.RazorTargetAssemblyInfo.cs
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.Views.pdb
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.csproj.CopyComplete
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.dll
+/home/alan/Documentos/dotnet/DOTNET CORE/Api+WebClient/HttpWebClient/obj/Debug/netcoreapp2.1/HttpWebClient.pdb
